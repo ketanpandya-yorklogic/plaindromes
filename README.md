@@ -1,14 +1,12 @@
-# plaindromes
-Plaindromes
-
+# palindromes
 
 ### Download
 Get the repository on a local directory
 
 ###Compile and Run
 
-javac PlaindromeTest.java
-java PlaindromeTest
+javac PalindromeTest.java
+java PalindromeTest
 
 ### Comments
 
